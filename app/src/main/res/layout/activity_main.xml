@@ -28,6 +28,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
-        app:srcCompat="@android:drawable" /> <!-- elegir la imagen dentro de las que tengas. -->
+        app:srcCompat="@android:drawable/mipmap-hdpi/img_click.png" /> <!-- elegir la imagen dentro de las que tengas. -->
 
 </android.support.design.widget.CoordinatorLayout>
